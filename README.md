@@ -1,7 +1,7 @@
 # CloudBurst Prediction System
 
 ## Overview
-The CloudBurst Prediction System is a machine learning project designed to predict the likelihood of a cloudburst based on various weather parameters. This project utilizes a RandomForestClassifier for predictions and includes an interactive graphical user interface (GUI) built with Tkinter for user input and prediction display.
+The CloudBurst Prediction System is a machine learning project designed to predict the likelihood of a cloudburst based on various weather parameters. This project utilizes RandomForestClassifier and XGBClassifier for predictions and includes an interactive graphical user interface (GUI) built with Tkinter for user input and prediction display.
 
 ## Features
 - Data preprocessing including handling missing values, encoding categorical variables, and standardizing numerical features.
